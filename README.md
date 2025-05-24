@@ -25,8 +25,8 @@
       <tr><td>Sabado</td><td>Hip-hop</td><td>2:00 PM-7:00 PM</td><td>$100</td></tr>
     </table>
   </main>
-<imagen src="https://historiasdeladanza.com/wp-content/uploads/2023/07/hip-hop-1-1024x683.jpg" controls width="400"></imagen>
-
+<imagen> src="https://historiasdeladanza.com/wp-content/uploads/2023/07/hip-hop-1-1024x683.jpg" controls width="400"></imagen>
+  </main>
   <footer>
     2025 Academia Estrella
   </footer>
