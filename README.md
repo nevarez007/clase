@@ -26,9 +26,8 @@
     </table>
   </main>
 
-  <img src="https://historiasdeladanza.com/wp-content/uploads/2023/07/hip-hop-1-102x190.jpg" alt="Hip-hop">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxfhm5Dpnpd1_7KS6271aXCw713ESyiSB4g&s" alt="Hip-Hop">
 
- 
   <footer>
     2025 Academia Estrella
   </footer>
