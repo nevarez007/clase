@@ -22,7 +22,7 @@
       <tr><td>Miércoles</td><td>Jazz</td><td>4:00 PM-9:00 PM</td><td>$100</td></tr>
       <tr><td>Jueves</td><td>Tango</td><td>4:00 PM-9:00 PM</td><td>$100</td></tr>
       <tr><td>Viernes</td><td>Salsa</td><td>4:00 PM-9:00 PM</td><td>$100</td></tr>
-      <tr><td>Sabado</td><td>Salsa</td><td>2:00 PM-7:00 PM</td><td>$100</td></tr>
+      <tr><td>Sabado</td><td>Hip-hop</td><td>2:00 PM-7:00 PM</td><td>$100</td></tr>
     </table>
   </main>
 
